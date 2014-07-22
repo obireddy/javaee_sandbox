@@ -7,6 +7,15 @@
 
     <display-name>Hello World Application</display-name>
     
+    <context-param>
+        <param-name>settingOne</param-name>
+        <param-value>foo</param-value>
+    </context-param>
+    <context-param>
+        <param-name>settingTwo</param-name>
+        <param-value>bar</param-value>
+    </context-param>
+    
     <servlet>
         <servlet-name>servletParameterServlet</servlet-name>
         <servlet-class>christensenst.servlet_basic.ServletParameterServlet</servlet-class>
