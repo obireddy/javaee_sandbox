@@ -1,0 +1,2 @@
+<%@ page import="christensenst.customer_support.Ticket, christensenst.customer_support.Attachment" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
